@@ -1,2 +1,41 @@
-# 0694d18a-journaling-reflection-search
-Your journal contains patterns, insights, and wisdom you've written but never found. The Journaling &amp; Reflection Search and Discovery API surfaces the self-discoveries buried in your past entries—automatically.  Most journaling apps let you write, but not truly understand yourself. This API powers intelligent search, sentiment analysis, and mood pa
+# Journaling & Reflection Search and Discovery API
+
+> Api Product for Journaling
+
+Your journal contains patterns, insights, and wisdom you've written but never found. The Journaling & Reflection Search and Discovery API surfaces the self-discoveries buried in your past entries—automatically.
+
+Most journaling apps let you write, but not truly understand yourself.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/eVq7sL12D0bW4pq47qcZv2j)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
